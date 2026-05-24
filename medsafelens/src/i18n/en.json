@@ -1,0 +1,73 @@
+{
+  "header": {
+    "subtitle": "Personalized Medication Risk Assessment"
+  },
+  "footer": {
+    "disclaimer": "This tool provides educational information only. Always consult with your healthcare provider before making any changes to your medication.",
+    "privacy": "All data stays in your browser. No information is collected or sent to servers."
+  },
+  "inputForm": {
+    "title": "Your Medications",
+    "searchPlaceholder": "Search for a medication...",
+    "addButton": "Add Medication",
+    "removeButton": "Remove",
+    "personalFactors": {
+      "title": "Personal Factors",
+      "age": "Age",
+      "sex": "Sex",
+      "male": "Male",
+      "female": "Female",
+      "pregnancy": "Pregnant or breastfeeding",
+      "g6pd": "G6PD Deficiency"
+    },
+    "metaphorPreference": {
+      "label": "I understand risks better through:",
+      "sports": "Sports",
+      "gaming": "Gaming",
+      "cooking": "Cooking",
+      "music": "Music",
+      "nature": "Nature",
+      "everyday": "Everyday life"
+    }
+  },
+  "whatIf": {
+    "title": "What If Scenarios",
+    "stopDrug": "What if I stop this medication?",
+    "addDrug": "What if I add another medication?",
+    "geneticFactor": "What if I have a genetic factor?"
+  },
+  "iconArray": {
+    "title": "Visualizing Your Risk",
+    "affected": "People affected",
+    "unaffected": "People not affected",
+    "outOf": "out of"
+  },
+  "riskLadder": {
+    "title": "Risk Comparison",
+    "yourRisk": "Your risk",
+    "backgroundRisk": "Background risk",
+    "untreatedDisease": "Untreated disease risk"
+  },
+  "metaphorDisplay": {
+    "title": "Understanding the Risk",
+    "alternativeMetaphor": "Show different metaphor"
+  },
+  "doctorBrief": {
+    "title": "Doctor Brief",
+    "generateButton": "Generate Summary",
+    "downloadButton": "Download PDF",
+    "description": "Create a printable summary to discuss with your healthcare provider"
+  },
+  "urgencyLevels": {
+    "benign": "Benign",
+    "actionable": "Actionable",
+    "serious": "Serious"
+  },
+  "riskMagnitude": {
+    "common": "Common",
+    "uncommon": "Uncommon",
+    "rare": "Rare",
+    "veryRare": "Very rare",
+    "extremelyRare": "Extremely rare"
+  }
+}
