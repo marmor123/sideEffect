@@ -1,0 +1,73 @@
+{
+  "header": {
+    "subtitle": "הערכת סיכונים תרופתיים מותאמת אישית"
+  },
+  "footer": {
+    "disclaimer": "כלי זה מספק מידע חינוכי בלבד. יש להתייעץ תמיד עם הרופא לפני ביצוע שינויים בתרופות.",
+    "privacy": "כל המידע נשמר בדפדפן שלך בלבד. לא נאסף או נשלח מידע לשרתים."
+  },
+  "inputForm": {
+    "title": "התרופות שלך",
+    "searchPlaceholder": "חיפוש תרופה...",
+    "addButton": "הוסף תרופה",
+    "removeButton": "הסר",
+    "personalFactors": {
+      "title": "גורמים אישיים",
+      "age": "גיל",
+      "sex": "מין",
+      "male": "זכר",
+      "female": "נקבה",
+      "pregnancy": "בהריון או מניקה",
+      "g6pd": "חוסר G6PD"
+    },
+    "metaphorPreference": {
+      "label": "אני מבין/ה סיכונים טוב יותר דרך:",
+      "sports": "ספורט",
+      "gaming": "משחקים",
+      "cooking": "בישול",
+      "music": "מוזיקה",
+      "nature": "טבע",
+      "everyday": "חיי היומיום"
+    }
+  },
+  "whatIf": {
+    "title": "תרחישי מה אם",
+    "stopDrug": "מה אם אפסיק את התרופה?",
+    "addDrug": "מה אם אוסיף תרופה נוספת?",
+    "geneticFactor": "מה אם יש לי גורם גנטי?"
+  },
+  "iconArray": {
+    "title": "המחשה ויזואלית של הסיכון",
+    "affected": "אנשים מושפעים",
+    "unaffected": "אנשים לא מושפעים",
+    "outOf": "מתוך"
+  },
+  "riskLadder": {
+    "title": "השוואת סיכונים",
+    "yourRisk": "הסיכון שלך",
+    "backgroundRisk": "סיכון רקע",
+    "untreatedDisease": "סיכון מחלה ללא טיפול"
+  },
+  "metaphorDisplay": {
+    "title": "הבנת הסיכון",
+    "alternativeMetaphor": "הצג מטאפורה אחרת"
+  },
+  "doctorBrief": {
+    "title": "סיכום לרופא",
+    "generateButton": "צור סיכום",
+    "downloadButton": "הורד PDF",
+    "description": "צור סיכום להדפסה לדיון עם הרופא שלך"
+  },
+  "urgencyLevels": {
+    "benign": "קל",
+    "actionable": "דורש פעולה",
+    "serious": "חמור"
+  },
+  "riskMagnitude": {
+    "common": "נפוץ",
+    "uncommon": "לא נפוץ",
+    "rare": "נדיר",
+    "veryRare": "נדיר מאוד",
+    "extremelyRare": "נדיר במיוחד"
+  }
+}
